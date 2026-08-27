@@ -1,0 +1,17 @@
+<svg width="760" height="190" viewBox="0 0 760 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="190" fill="#0f172a"/>
+  <rect x="28" y="36" width="704" height="92" rx="18" fill="#020617" stroke="#334155" stroke-width="2"/>
+  <rect x="28" y="36" width="704" height="92" rx="18" fill="url(#glow)" fill-opacity="0.5"/>
+  <line x1="196" y1="54" x2="196" y2="110" stroke="#334155" stroke-width="2"/>
+  <text x="62" y="76" fill="#7dd3fc" font-family="Microsoft JhengHei UI, Segoe UI, sans-serif" font-size="27" font-weight="700">Codex</text>
+  <text x="66" y="108" fill="#93c5fd" font-family="Microsoft JhengHei UI, Segoe UI, sans-serif" font-size="26" font-weight="700">額度</text>
+  <text x="310" y="91" text-anchor="middle" fill="#4ade80" font-family="Microsoft JhengHei UI, Segoe UI, sans-serif" font-size="58" font-weight="800">53%</text>
+  <text x="310" y="119" text-anchor="middle" fill="#93c5fd" font-family="Microsoft JhengHei UI, Segoe UI, sans-serif" font-size="25" font-weight="700">每週</text>
+  <text x="380" y="164" text-anchor="middle" fill="#94a3b8" font-family="Microsoft JhengHei UI, Segoe UI, sans-serif" font-size="22">Codex 沒有 5 小時資料時，自動縮成週額度窄版</text>
+  <defs>
+    <linearGradient id="glow" x1="28" y1="36" x2="732" y2="128" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0ea5e9" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#22c55e" stop-opacity="0.06"/>
+    </linearGradient>
+  </defs>
+</svg>

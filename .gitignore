@@ -1,0 +1,16 @@
+# Local runtime state
+status.json
+settings.json
+notified-resets.json
+claude-usage-cache.json
+screenshots/
+
+# Windows and editor noise
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
